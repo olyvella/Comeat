@@ -1,0 +1,18 @@
+<resources>
+<!--     PAGE AUTHENTIFICATION -->
+
+    <string name="app_name">Comeat</string>
+    <string name="titre_auth">Formulaire d authentification</string>
+    <string name="lbl_email">Adresse électronique</string>
+    <string name="lbl_mdp">Mot de Passe </string>
+    <string name="lbl_connexion">Connexion </string>
+    <string name="lbl_annuler"> Annuler </string>
+
+<!--    PAGE MENUREPAS-->
+
+
+
+
+<!--    PACHE RECHERCHEREPAS-->
+
+</resources>
